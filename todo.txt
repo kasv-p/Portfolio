@@ -1,3 +1,0 @@
---icons
---logo for title bar
---moving line
