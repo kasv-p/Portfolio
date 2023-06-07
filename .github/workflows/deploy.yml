@@ -1,4 +1,4 @@
-name: PORTFOLIO DEPLOY
+name: PORTFOLIO-DEPLOY
 
 on:
   push:
