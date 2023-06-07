@@ -14,6 +14,7 @@
   "browserslist": "> 0.25%, not dead",
   "scripts": {
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "deploy:ci": "gatsby build --prefix-paths && gh-pages -d public -r https://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@github.com/kasv-p/portfolio.git",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
