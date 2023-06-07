@@ -1,0 +1,10 @@
+- stood 5<sup>th</sup>, 6<sup>th</sup> in the Coderush competition conducted by Algo University in the years 2022 and 2023, respectively and also awarded as the best female coder
+- Secured a rank of 2957 in google kickstart round-b 2022
+- Selected for mentorship program under Amazon ML School
+- Attendee of jumpstart conference at publicis sapient
+- Completed 1<sup>st</sup> milestone in google cloud facilitator program
+- Qualified level-1 in  OPPO Inspiration Cup
+- Secured 1<sup>st</sup> place in Data-Science and 3<sup>rd</sup> place in AI tracks in Summer Of Innovation 2022 at IIT Dharwad
+- OSS Mentee at codess.cafe
+- Secured 6<sup>th</sup> in Alogostrike coding competition and 5<sup>th</sup> place in Moisture Minds an ML based prediction hackathon held by PARSEC 2023
+- Part of the team that won the Bronze medal in Inter-IIT Tech-Meet 11.0 2023 for the Grow-Simplee problem statement
