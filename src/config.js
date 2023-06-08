@@ -7,20 +7,12 @@ module.exports = {
       url: 'https://github.com/kasv-p',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/kavali-sri-vyshnavi-devi-94448b227/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Coding',
+      url: 'https://auth.geeksforgeeks.org/user/ksvd1234/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user',
     },
   ],
 
