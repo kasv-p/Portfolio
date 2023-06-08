@@ -3,7 +3,7 @@ const config = require('./src/config');
 module.exports = {
 	pathPrefix: "Portfolio",
   siteMetadata: {
-    title: '{Vyshnavi}',
+    title: '<Vyshnavi/>',
     description:
       'A curious student to learn new techy things.',
     siteUrl: 'https://kasv-p.github.io', // No trailing slash allowed!
