@@ -1,5 +1,5 @@
 import React from 'react';
-import ic from "./src/images/k-letter.svg"
+import ic from "../../images/k-letter.svg"
 const IconLogo = () => (
 <>
   <title>Logo</title>
