@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://brittanychiang.com/Portfolio/sitemap-index.xml
-Host: https://brittanychiang.com
+Sitemap: https://kasv-p.github.io/Portfolio/sitemap-index.xml
+Host: https://kasv-p.github.io
