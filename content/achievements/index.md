@@ -1,3 +1,4 @@
+- Selected as one of the 15 members for the prestigious Flipkart Runway Scholar program
 - stood 5<sup>th</sup>, 6<sup>th</sup> in the Coderush competition conducted by Algo University in the years 2022 and 2023, respectively and also awarded as the best female coder
 - Secured a rank of 2957 in google kickstart round-b 2022
 - Selected for mentorship program under Amazon ML School
