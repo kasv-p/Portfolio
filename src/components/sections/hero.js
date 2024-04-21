@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a student pursuing computer science and enginerring at IIT Dharwad. I am driven to expand my knowledge and venture into uncharted territories within the realm of computer science.
+        I’m a student pursuing computer science and engineering at IIT Dharwad. I am driven to expand my knowledge and venture into uncharted territories within the realm of computer science.
       </p>
     </>
   );
