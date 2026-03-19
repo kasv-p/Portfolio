@@ -1,6 +1,6 @@
 ---
 date: "2024-07-08"
-title: "Software Engineer 1"
+title: "Software Engineer"
 company: "Microsoft"
 location: "Hyderabad, India"
 range: "July 2024 - Nov 2024"
