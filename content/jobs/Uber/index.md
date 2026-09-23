@@ -1,6 +1,6 @@
 ---
 date: "2024-11-01"
-title: "Software Engineer"
+title: "Software Engineer 2"
 company: "Uber"
 location: "Bangalore, India"
 range: "November 2024 - Present"
